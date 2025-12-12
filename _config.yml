@@ -1,3 +1,15 @@
-theme: jekyll-theme-minimal
-title: Nelio Software Engineering
-description: Bookmark this to keep an eye on my project updates!
+title: "Nelio Software Engineering – Freelance Software Engineer"
+description: "Java • Spring Boot • AWS • CI/CD • Angular • Observability"
+theme: trade-jekyll-theme
+url: "https://www.nelio.se"       # of je GitHub Pages URL als je repo gebruikt
+baseurl: ""                        # lege string bij custom domain
+
+author:
+  name: "Nelio Software Engineering"
+  email: "info@nelio.se"
+
+logo: /assets/images/java-spring.jpg
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
