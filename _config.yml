@@ -1,6 +1,6 @@
 title: "Nelio Software Engineering – Freelance Software Engineer"
 description: "Java • Spring Boot • AWS • CI/CD • Angular • Observability"
-theme: trade-jekyll-theme
+theme: jekyll-theme-minimal
 url: "https://www.nelio.se"       # of je GitHub Pages URL als je repo gebruikt
 baseurl: ""                        # lege string bij custom domain
 
