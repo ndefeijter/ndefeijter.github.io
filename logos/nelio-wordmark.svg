@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-4 -5 314 82" width="314" height="82" role="img" aria-label="NELIO">
+<g fill="#14212b">
+<rect x="0" y="0" width="14" height="72"/><rect x="46" y="0" width="14" height="72"/><polygon points="0,0 17,0 60,72 43,72"/>
+<rect x="72" y="0" width="14" height="72"/><rect x="72" y="0" width="46" height="14"/><rect x="72" y="29" width="40" height="14"/><rect x="72" y="58" width="46" height="14"/>
+<rect x="130" y="0" width="14" height="72"/><rect x="130" y="58" width="44" height="14"/>
+<rect x="186" y="0" width="14" height="72"/>
+<path fill-rule="evenodd" d="M249 -1a37 37 0 1 0 0.001 0zM249 13a23 23 0 1 1 -0.001 0z"/>
+</g>
+<rect x="292" y="58" width="14" height="14" rx="3" fill="#f2b134"/>
+</svg>
