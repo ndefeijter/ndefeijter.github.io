@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="NELIO">
+<rect width="128" height="128" rx="28" fill="#0d6b63"/>
+<g fill="#ffffff" transform="translate(29 28)"><rect x="0" y="0" width="16" height="72"/><rect x="44" y="0" width="16" height="72"/><polygon points="0,0 19,0 60,72 41,72"/></g>
+<rect x="95" y="84" width="16" height="16" rx="3.5" fill="#f2b134"/>
+</svg>
